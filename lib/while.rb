@@ -6,5 +6,3 @@ counter = 0
 
   #your code here
 end
-
-puts using_while
