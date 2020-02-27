@@ -6,5 +6,3 @@ using_while = 0
 
   #your code here
 end
-
-
